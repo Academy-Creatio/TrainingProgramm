@@ -1,4 +1,4 @@
-# Training Programm
+# Training Program
 
 
 
