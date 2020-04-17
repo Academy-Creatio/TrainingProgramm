@@ -6,5 +6,5 @@
 
 
 
-[academy] https://academy.creatio.com
-[creatio] https://creatio.com
+[academy]: https://academy.creatio.com
+[creatio]: https://creatio.com
