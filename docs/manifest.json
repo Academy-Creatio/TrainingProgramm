@@ -1,7 +1,7 @@
 {
   "name": "PtrainingProgram.Client",
   "short_name": "PtrainingProgram.Client",
-  "start_url": "./",
+  "start_url": "./TrainingProgramm",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
