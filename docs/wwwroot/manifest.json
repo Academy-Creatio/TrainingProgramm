@@ -1,0 +1,15 @@
+{
+  "name": "PtrainingProgram.Client",
+  "short_name": "PtrainingProgram.Client",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#03173d",
+  "icons": [
+    {
+      "src": "/Assets/accelerateLogo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
